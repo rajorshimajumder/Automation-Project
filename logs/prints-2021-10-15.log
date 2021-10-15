@@ -1,0 +1,5 @@
+12:33:37.456 [TestNG-tests-2] INFO  resources.base - Navigated to Login page
+12:33:37.616 [TestNG-tests-2] INFO  resources.base - Successfully logged in with username mailto.rajorshimajumder@gmail.com and password qwerty
+12:33:38.410 [TestNG-tests-2] INFO  resources.base - Successfully validated login
+12:33:38.473 [TestNG-tests-2] INFO  resources.base - Navigated to Login page
+12:33:38.588 [TestNG-tests-2] INFO  resources.base - Successfully logged in with username habibakhtar201@gmail.com and password qwerty

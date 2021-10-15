@@ -1,0 +1,6 @@
+22:06:20.081 [TestNG-tests-2] INFO  resources.base - Navigated to Login page
+22:06:20.394 [TestNG-tests-2] INFO  resources.base - Successfully logged in with username habibakhtar201@gmail.com and password qwerty
+22:06:21.122 [TestNG-tests-2] INFO  resources.base - Successfully validated login
+22:07:34.152 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+22:07:34.825 [TestNG-tests-2] INFO  resources.base - Navigated to Login page
+22:07:34.952 [TestNG-tests-1] INFO  resources.base - Header is displayed

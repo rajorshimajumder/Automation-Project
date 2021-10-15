@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 27.739 s <<< FAILURE! - in TestSuite
+Automation.Project.Login.baseNavigation[mailto.rajorshimajumder@gmail.com, qwerty](1)  Time elapsed: 10.994 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"h31"}
+  (Session info: MicrosoftEdge=94.0.992.47)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.47, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:61340}, msedge: {msedgedriverVersion: 94.0.992.47 (8d45ccc5def2a3..., userDataDir: C:\Users\mailt\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 201ee9a1c1a263bee1978f283ca20e79
+*** Element info: {Using=tag name, value=h31}
+	at Automation.Project.Login.baseNavigation(Login.java:39)
+
+Automation.Project.Login.baseNavigation[habibakhtar201@gmail.com, qwerty](2)  Time elapsed: 10.516 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"h31"}
+  (Session info: MicrosoftEdge=94.0.992.47)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.47, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:61340}, msedge: {msedgedriverVersion: 94.0.992.47 (8d45ccc5def2a3..., userDataDir: C:\Users\mailt\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 201ee9a1c1a263bee1978f283ca20e79
+*** Element info: {Using=tag name, value=h31}
+	at Automation.Project.Login.baseNavigation(Login.java:39)
+
